@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+ <head>
+	 <title>Ex 3</title>
+     <meta charset="utf-8">
+ </head>
+ <body dir="rtl">
+	 <table border="1" align="center" style="font-family: Yekan; width: 40%">
+		 <caption> معدل های من </caption>
+		 <br>
+		 <colgroup style="background-color: #eb3b5a "></colgroup>
+		 <colgroup style="background-color: #512da8 "></colgroup>
+		 <colgroup style="background-color: #212121 "></colgroup>
+		 <tr>
+		   <th style="color: #fff" > نام دوره  </th>
+		   <th style="color: #fff"> نام مدرسه  </th>
+		   <th style="color: #fff"> معدل  </th>
+		 </tr>
+		 <tr>
+		   <td style="color: #fff; text-align: center"> دبستان </td>
+		   <td style="color: #fff; text-align: center"> شاهد فتح </td>
+	       <td style="color: #fff; text-align: center"> 20 </td>
+		 </tr>
+		 <tr>
+		   <td style="color: #fff; text-align: center">راهنمایی  </td>
+		   <td style="color: #fff; text-align: center"> شاهد هفتم تیر </td>
+	       <td style="color: #fff; text-align: center"> 18 </td>
+		 </tr>
+		 <tr>
+		   <td style="color: #fff; text-align: center"> دبیرستان </td>
+		   <td style="color: #fff; text-align: center"> نمونه دولتی </td>
+	       <td style="color: #fff; text-align: center"> 16 </td>
+		 </tr>	 
+	 </table>
+ </body>
+</html>
